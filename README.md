@@ -24,6 +24,8 @@ Designed to scale with the growing needs of an enterprise, handling vast amounts
 
 ### Open Source
 Community-driven development with transparency and the ability to customize and extend functionalities.
+<<<<<<< HEAD
+=======
 
 ```markdown
 # Contributing
@@ -69,3 +71,4 @@ Elektra-XDR is made possible by the contributions of a diverse and dedicated com
 
 *Happy securing with Elektra-XDR! Together, we make the digital world safer.*
 
+>>>>>>> 26e331a0892cd563caf62ff9faac329a2a81fd1b
