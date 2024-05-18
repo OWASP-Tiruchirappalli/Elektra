@@ -59,13 +59,13 @@ Create a pull request on the main repository and describe your changes.
 
 # License
 
-Elektra-XDR is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in compliance with the terms of the license.
+Elektra-XDR is licensed under the [GPL 3.0 License](LICENSE). You are free to use, modify, and distribute this software in compliance with the terms of the license.
 
 # Acknowledgments
 
 Elektra-XDR is made possible by the contributions of a diverse and dedicated community. We thank all the developers, testers, and users who have helped shape this project.
 
----
+
 
 *Happy securing with Elektra-XDR! Together, we make the digital world safer.*
-```
+
